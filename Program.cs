@@ -14,6 +14,7 @@ namespace git_training
             Console.WriteLine("Kai was here");
 
             Console.WriteLine("Dog");
+            Console.WriteLine("Cat");
         }
     }
 }
