@@ -1,0 +1,15 @@
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\git_training.exe
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\git_training.deps.json
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\git_training.runtimeconfig.json
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\git_training.dll
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\ref\git_training.dll
+C:\Users\Kai.Schmidt\repos\git_training\bin\Debug\net6.0\git_training.pdb
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.csproj.AssemblyReference.cache
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.AssemblyInfoInputs.cache
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.AssemblyInfo.cs
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.csproj.CoreCompileInputs.cache
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.dll
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\ref\git_training.dll
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.pdb
+C:\Users\Kai.Schmidt\repos\git_training\obj\Debug\net6.0\git_training.genruntimeconfig.cache
