@@ -9,7 +9,7 @@ namespace git_training
 {
     class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
             foreach (var i in Fibonacci().Take(20))
             {
