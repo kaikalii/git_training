@@ -8,6 +8,8 @@ namespace git_training
         {
             Console.WriteLine("Hello everyone!");
             Console.WriteLine("Hello everyone!");
+
+            Console.WriteLine("Hello Engineers!");
         }
     }
 }
