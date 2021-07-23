@@ -7,6 +7,7 @@ namespace git_training
         static void Main(string[] args)
         {
             Console.WriteLine("Hello everyone!");
+            Console.WriteLine("Hello everyone!");
         }
     }
 }
