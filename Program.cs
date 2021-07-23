@@ -7,11 +7,14 @@ namespace git_training
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
             Console.WriteLine("Hello everyone!");
             Console.WriteLine("Hello everyone!");
 
             Console.WriteLine("Kai was here");
+
+            Console.Write("Dog");
+            Console.WriteLine("Cat");
         }
     }
 }
